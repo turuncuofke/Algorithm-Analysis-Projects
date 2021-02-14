@@ -1,0 +1,100 @@
+Albania	Baby Food	752525556	7890	756335	
+Albania	Personal Care	104191863	1543	38667.6	
+Algeria	Cosmetics	761723172	9669	1.68115e+06	
+Antigua and Barbuda 	Office Supplies	286891067	6297	794996	
+Belgium	Personal Care	222504317	2827	70844.6	
+Belize	Personal Care	315402734	3533	88537	
+Brunei	Cereal	153842341	4222	374027	
+Burundi	Beverages	529276502	3533	55326.8	
+Canada	Cosmetics	368977391	7464	1.29777e+06	
+China	Office Supplies	198927056	5791	731114	
+Czech Republic	Cosmetics	726137769	9157	1.59213e+06	
+Democratic Republic of the Congo	Cosmetics	584356629	2967	515872	
+Djibouti	Clothes	880811536	562	41273.3	
+Dominica	Household	274930989	7044	1.1674e+06	
+Dominica	Beverages	438011872	6301	98673.7	
+Dominican Republic	Baby Food	824714744	274	26265.6	
+East Timor	Cereal	156295812	259	22944.8	
+Egypt	Clothes	882908809	1192	87540.5	
+Estonia	Household	835696351	9976	1.65332e+06	
+Ethiopia	Cosmetics	807785928	662	115102	
+Finland	Household	757257401	8148	1.35037e+06	
+Finland	Vegetables	642134416	698	44064.7	
+France	Cosmetics	324669444	5758	1.00114e+06	
+Ghana	Clothes	791778934	3836	281716	
+Ghana	Office Supplies	601245963	896	113120	
+Ghana	Fruits	496523940	1323	3188.43	
+Greece	Cereal	887124383	8674	768430	
+Haiti	Office Supplies	485070693	2052	259065	
+Iceland	Baby Food	678230941	2462	236007	
+India	Snacks	440306556	5349	294944	
+Indonesia	Personal Care	678896129	9306	233208	
+Indonesia	Household	520480573	623	103250	
+Israel	Beverages	371502530	4709	73742.9	
+Italy	Cereal	294530856	7080	627217	
+Italy	Office Supplies	797385394	2913	367766	
+Italy	Cereal	887409770	3126	276932	
+Japan	Household	747796285	8393	1.39097e+06	
+Kazakhstan	Snacks	710296428	1352	74549.3	
+Kuwait	Household	459386289	1466	242960	
+Lebanon	Meat	704205024	8770	501644	
+Liberia	Baby Food	146634709	1324	126919	
+Madagascar	Clothes	494570004	3110	228398	
+Malawi	Meat	450544869	5094	291377	
+Malaysia	Beverages	955894076	9154	143352	
+Mali	Household	363086831	4317	715456	
+Mali	Baby Food	290227735	3691	353819	
+Mauritius 	Clothes	349235904	5520	405389	
+Moldova 	Fruits	180908620	3736	9003.76	
+Monaco	Beverages	467399013	2609	40856.9	
+Montenegro	Clothes	902511680	2117	155472	
+Morocco	Clothes	667593514	4611	338632	
+Nepal	Meat	179137074	9496	543171	
+Netherlands	Fruits	845056617	9887	23827.7	
+New Zealand	Beverages	940980136	5788	90640.1	
+Nicaragua	Household	573998582	7791	1.2912e+06	
+Nicaragua	Baby Food	343752610	2891	277131	
+Oman	Cosmetics	358570849	7937	1.38001e+06	
+Pakistan	Meat	500371730	9969	570227	
+Papua New Guinea	Clothes	647164094	9092	667716	
+Papua New Guinea	Meat	940995585	360	20592	
+Romania	Cereal	633134210	7337	649985	
+Romania	Beverages	756839835	4581	71738.5	
+Rwanda	Fruits	699160754	6059	14602.2	
+Saint Lucia	Fruits	731120240	3581	8630.21	
+Samoa 	Household	937431466	5657	937535	
+Sao Tome and Principe	Clothes	548299157	2760	202694	
+Serbia	Clothes	925136649	7348	539637	
+Seychelles 	Beverages	425793445	597	9349.02	
+Singapore	Snacks	176461303	7676	423255	
+Slovakia	Beverages	174590194	3973	62217.2	
+Solomon Islands	Household	101328551	4225	700209	
+South Africa	Fruits	443368995	1593	3839.13	
+South Korea	Meat	297876536	7141	408465	
+Sri Lanka	Fruits	830192887	1379	3323.39	
+Sweden	Beverages	265081918	2485	38915.1	
+Switzerland	Office Supplies	830410039	5639	711924	
+Taiwan	Cereal	498071897	9397	832480	
+Taiwan	Fruits	732588374	8034	19361.9	
+Tanzania	Cosmetics	739008080	7768	1.35062e+06	
+Tanzania	Fruits	156530129	9599	23133.6	
+Tanzania	Beverages	659878194	1476	23114.2	
+Thailand	Meat	252889239	4401	251737	
+Thailand	Fruits	434008300	1555	3747.55	
+The Bahamas	Personal Care	246248090	9137	228973	
+The Bahamas	Fruits	488121116	4740	11423.4	
+The Gambia	Fruits	862861335	8699	20964.6	
+Togo	Cosmetics	563681733	4806	835619	
+Tonga	Baby Food	839094388	5531	530202	
+Tunisia 	Cosmetics	479969346	2450	425982	
+Turkmenistan	Vegetables	116205585	6670	421077	
+Turkmenistan	Meat	757619178	5206	297783	
+Uganda	Cosmetics	842238795	6031	1.04861e+06	
+Uganda	Personal Care	539471471	451	11302.1	
+United Arab Emirates	Office Supplies	425418365	9603	1.21238e+06	
+United Kingdom	Cosmetics	135178029	1038	180477	
+United States of America	Personal Care	190777862	4264	106856	
+Vanuatu	Cereal	572335612	5681	503280	
+Vanuatu	Fruits	571997869	5735	13821.3	
+Vietnam	Personal Care	314505374	7984	200079	
+Zimbabwe	Office Supplies	953361213	9623	1.2149e+06	
